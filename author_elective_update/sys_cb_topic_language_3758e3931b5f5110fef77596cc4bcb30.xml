@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="DELETE">
+        <cb_topic_id display_value="Submit a Request">ff58a7531b5f5110fef77596cc4bcb33</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"3edb429d85e348e795f6e36d665346a0","variable_name":"search_term","nlu_entity":"searchquery"}]</nlu_entities>
+        <nlu_intent>SubmitRequest</nlu_intent>
+        <nlu_intent_label/>
+        <nlu_model>sn_csm_nlu_Customer_Service_NLU_Model</nlu_model>
+        <nlu_model_label/>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 00:33:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3758e3931b5f5110fef77596cc4bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_3758e3931b5f5110fef77596cc4bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-27 00:33:48</sys_updated_on>
+    </sys_cb_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3b29cc31db8fbb80b847ac44d4961967</instance_id>
+        <instance_name>dev90628</instance_name>
+        <name>sys_cb_topic_language_3758e3931b5f5110fef77596cc4bcb30</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language"><sys_cb_topic_language action="INSERT_OR_UPDATE"><cb_topic_id display_value="Submit a Request">ff58a7531b5f5110fef77596cc4bcb33</cb_topic_id><language_code>en</language_code><nlu_entities>[{"node_id":"3edb429d85e348e795f6e36d665346a0","variable_name":"search_term","nlu_entity":"searchquery"}]</nlu_entities><nlu_intent>SubmitRequest</nlu_intent><nlu_intent_label/><nlu_model>sn_csm_nlu_Customer_Service_NLU_Model</nlu_model><nlu_model_label/><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cb_topic_language</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-27 00:33:48</sys_created_on><sys_domain>global</sys_domain><sys_id>3758e3931b5f5110fef77596cc4bcb30</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cb_topic_language_3758e3931b5f5110fef77596cc4bcb30</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-27 00:33:48</sys_updated_on></sys_cb_topic_language></record_update>]]></payload>
+        <payload_hash>-1891374699</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>76d9d94b1bd31110fef77596cc4bcb76</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 00:33:48</sys_created_on>
+        <sys_id>fb58e3931b5f5110fef77596cc4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184b68127810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-27 00:33:48</sys_updated_on>
+        <type>CB Topic Language</type>
+        <update_guid>3758e3938a5f511013806d4e74591b32</update_guid>
+        <update_guid_history>3758e3938a5f511013806d4e74591b32:-1891374699</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-27 00:33:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_language">sys_cb_topic_language</sys_db_object>
+        <sys_id>9d3d85d6aedc4e35affe799e94d3af61</sys_id>
+        <sys_metadata>3758e3931b5f5110fef77596cc4bcb30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_language_3758e3931b5f5110fef77596cc4bcb30</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_language_3758e3931b5f5110fef77596cc4bcb30">fb58e3931b5f5110fef77596cc4bcb32</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-27 00:33:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
